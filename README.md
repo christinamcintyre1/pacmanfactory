@@ -1,9 +1,8 @@
 # pacmen
 Factory for making pacmen
-You are given a starter.html code.
-When button "make one" is pressed you need to complete the code 
-to position the new pacman image and add it to the "game" div. It is then added to the array of pacmen, which keeps track of the position and velocity of each pacman.
-You also need to make each pacman bounce off any wall it hits. 
-Start by getting at least one pacman positioned and viewable. 
+
+Click addpacmen button to add pacman faces to the screen.
+When start game is pressed the pacman faces move around screen boucing off the edges of the screen. 
+ 
 
 <img src="./images/PacMan1.png">
